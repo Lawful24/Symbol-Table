@@ -1,0 +1,17 @@
+/analyser.lib
+/analyser_b.lib
+/binary_search_tree.lib
+/bst.obj
+/bst_node.obj
+/identifier.obj
+/identifiers.txt
+/identifier_counter.obj
+/identifier_counter_b.obj
+/identifier_finder.obj
+/identifier_finder_b.obj
+/io_file_handler.obj
+/io_file_handler_b.obj
+/symbol_table.exe
+/symbol_table.obj
+/symbol_table_b.exe
+/symbol_table_b.obj
